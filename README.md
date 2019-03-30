@@ -1,6 +1,8 @@
 # Project-CS163
 
-Issue: Simualte a mini search engine with several features
+Issue: Simualte a mini search engine with several features such as: AND,OR,* *,#,file path,...
+
+from given data is over 2000 text files which each file has at least 200 words.
 
 Member list:
 
