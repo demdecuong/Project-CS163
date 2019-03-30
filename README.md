@@ -1,6 +1,6 @@
 # Project-CS163
 
-Issue: N/A
+Issue: Simualte a mini search engine with several features
 
 Member list:
 
@@ -12,6 +12,3 @@ Member list:
 
 4.Nguyen Quoc Binh
 
-We will try our best to be a team and done this project comprehensively !!!
-
-Do not forget beers to reward ourselves whenever we have a minor-acheivement
